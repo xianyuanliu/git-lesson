@@ -7,6 +7,6 @@
 + [x] Flour
 + [x] Sausage
 + [x] Vegetable Oil
-+ [ ] Bread
-+ [ ] Marmite
-+ [ ] Carrots
++ [x] Bread
++ [x] Marmite
++ [x] Carrots
